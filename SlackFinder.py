@@ -2,7 +2,7 @@ __author__ = 'nncsang'
 
 # --------------------------------------------------------------------------------------------- #
 # Some parts of this code is borrowed from https://github.com/SokratisVidros/slack_pytsk.
-# Function find_slack, main are my own contributions
+# Function find_slack, and main are my own contributions
 # --------------------------------------------------------------------------------------------- #
 
 import pytsk3
